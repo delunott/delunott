@@ -1,16 +1,46 @@
-## Hi there 👋
+```js
+const response = {
+  status: 202,
+  data: {
+    personal: {
+      name: "Amin Sadeghi",
+      nickname: "UndewiNed",
+      birthday: "1 June",
+    },
+    skills: {
+      frontend: ["HTML", "CSS", "JavaScript", "React.js", "TypeScript (basic)"],
+      backend: ["Node.js", "Express.js"],
+      database: ["MongoDB"],
+      other: ["Git", "REST APIs"],
+    },
+  },
+  meta: {
+    lastUpdated: new Date().toISOString(),
+    profileVisibility: "public",
+    version: "1.1.6",
+  },
+};
 
-<!--
-**delunott/delunott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
 
-Here are some ideas to get you started:
+## <p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Amin;A+Full-Stack+Web+Developer;I+specialize+in+web+development;Passionate+about+building+scalable+web+applications;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Amin, a web developer who loves coding and building cool things.
+
+I have a good understanding of web development and I'm skilled in **HTML**, **CSS**, **JavaScript**, **React.js**, and **Node.js**. I’ve spent a lot of time learning and working on **personal projects** to improve my skills.
+
+Even though I don’t have professional experience yet, I’ve worked on **several** projects that helped me learn and grow as a developer. I’m always excited to take on new challenges and continue learning.
+
+Here are the technologies I work with:
+<p><img src="https://raw.githubusercontent.com/undewined/undewined/2ebad0864c8c1ef3b03194f3eaf80f1a540ed0b1/logos.svg"></p>
+
+I’m now ready to start working on real projects and build something great. If you're looking for a motivated and passionate developer, feel free to [reach out](https://t.me/a01100001)! 🚀
+
+
+## ![Status](https://github-readme-stats.vercel.app/api?username=undewined&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
+
+## <p align="center"><img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" /></p>
+
+![](https://badgen.net/discord/members/xJa5cKy7tH)
+<br>
+![](https://komarev.com/ghpvc/?username=undewined&color=green)
