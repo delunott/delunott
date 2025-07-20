@@ -37,7 +37,7 @@ Here are the technologies I work with:
 I’m now ready to start working on real projects and build something great. If you're looking for a motivated and passionate developer, feel free to [reach out](https://t.me/a01100001)! 🚀
 
 
-## ![Status](https://github-readme-stats.vercel.app/api?username=undewined&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
+## ![Status](https://github-readme-stats.vercel.app/api?username=delunott&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
 
 ## <p align="center"><img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" /></p>
 
