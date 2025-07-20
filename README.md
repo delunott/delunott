@@ -4,11 +4,11 @@ const response = {
   data: {
     personal: {
       name: "Amin Sadeghi",
-      nickname: "UndewiNed",
+      nickname: "DeluNott",
       birthday: "1 June",
     },
     skills: {
-      frontend: ["HTML", "CSS", "JavaScript", "React.js", "TypeScript (basic)"],
+      frontend: ["HTML", "CSS", "JavaScript", "React.js", "TypeScript"],
       backend: ["Node.js", "Express.js"],
       database: ["MongoDB"],
       other: ["Git", "REST APIs"],
@@ -17,7 +17,7 @@ const response = {
   meta: {
     lastUpdated: new Date().toISOString(),
     profileVisibility: "public",
-    version: "1.1.6",
+    version: "1.0.3",
   },
 };
 
@@ -27,12 +27,12 @@ const response = {
 
 I'm Amin, a web developer who loves coding and building cool things.
 
-I have a good understanding of web development and I'm skilled in **HTML**, **CSS**, **JavaScript**, **React.js**, and **Node.js**. I’ve spent a lot of time learning and working on **personal projects** to improve my skills.
+I have a good understanding of web development and I'm skilled in **Front-End**, **Back-End**. I’ve spent a lot of time learning and working on **personal projects** to improve my skills.
 
 Even though I don’t have professional experience yet, I’ve worked on **several** projects that helped me learn and grow as a developer. I’m always excited to take on new challenges and continue learning.
 
 Here are the technologies I work with:
-<p><img src="https://raw.githubusercontent.com/undewined/undewined/2ebad0864c8c1ef3b03194f3eaf80f1a540ed0b1/logos.svg"></p>
+<p><img src="./logos.svg"></p>
 
 I’m now ready to start working on real projects and build something great. If you're looking for a motivated and passionate developer, feel free to [reach out](https://t.me/a01100001)! 🚀
 
@@ -43,4 +43,4 @@ I’m now ready to start working on real projects and build something great. If 
 
 ![](https://badgen.net/discord/members/xJa5cKy7tH)
 <br>
-![](https://komarev.com/ghpvc/?username=undewined&color=green)
+![](https://komarev.com/ghpvc/?username=delunott&color=red)
