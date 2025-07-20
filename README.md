@@ -17,7 +17,7 @@ const response = {
   meta: {
     lastUpdated: new Date().toISOString(),
     profileVisibility: "public",
-    version: "1.0.3",
+    version: "1.0.4",
   },
 };
 
@@ -41,6 +41,6 @@ I’m now ready to start working on real projects and build something great. If 
 
 ## <p align="center"><img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" /></p>
 
-![](https://badgen.net/discord/members/xJa5cKy7tH)
+![](https://badgen.net/discord/members/jgsAcSAj6t)
 <br>
 ![](https://komarev.com/ghpvc/?username=delunott&color=red)
