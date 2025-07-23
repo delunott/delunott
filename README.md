@@ -23,7 +23,7 @@ const response = {
 
 ```
 
-## <p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=535&lines=Hi%2C+I'm+Amin;A+Full-Stack+Web+Developer;I+specialize+in+web+development;Passionate+about+building+scalable+web+applications;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)</p>
+## <p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=585&lines=Hi%2C+I'm+Amin;A+Full-Stack+Web+Developer;I+specialize+in+web+development;Passionate+about+building+scalable+web+applications;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)</p>
 
 I'm Amin, a web developer who loves coding and building cool things.
 
